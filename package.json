@@ -1,0 +1,19 @@
+{
+  "name": "kpartition",
+  "version": "1.0.0",
+  "description": "Algorithm that produces approximate solution of the k-Partition problem",
+  "main": "grouping.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "kpartition",
+    "partition"
+  ],
+  "author": "J. Protopopovs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/protopopov1122/kpartition"
+   }
+}
